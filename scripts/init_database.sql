@@ -22,11 +22,10 @@ IF EXISTS(SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
   GO
     
 
---Create Database 'Datawarehouse'
 --Master database is system database where you can go and create other databases
+use master 
 
-use master
-
+--Create Database 'Datawarehouse'
 CREATE DATABASE DataWarehouse;
 
 --Schema is like container to keep things organised
