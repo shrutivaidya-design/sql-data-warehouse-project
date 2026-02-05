@@ -24,7 +24,7 @@ Develop a modern DWH using SQL Server to consolidate Sales data,enabling analyti
 #### Objective:
 Develop SQL based analytics to deliver detailed insights into:
 **Customer Behaviour** 
-**Product Perfomrance**
+**Product Performance**
 **Sales Trends**
 
 These insights empower stakeholders with key business metrics ,enabling strategic decision-making.
