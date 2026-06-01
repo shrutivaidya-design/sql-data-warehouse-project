@@ -38,6 +38,8 @@ This project is licensed under MIT license.
 
 ### About ME :
 
+Data Analyst with 3+ years of experience building end-to-end analytics solutions — from complex SQL data extraction through to Power BI and Tableau dashboards that stakeholders actually adopt and act on.
+
 
 
 
